@@ -1,0 +1,39 @@
+_repo: Great-Men-as-Prophets-of-a-New-Era_60038
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hillis, Newell Dwight
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '7266'
+    url: http://www.gutenberg.org/2009/agents/7266
+    wikipedia: https://en.wikipedia.org/wiki/Newell_Dwight_Hillis
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60038'
+  lccn: '23000624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcsh 'Biography'
+- !lcsh 'Savonarola, Girolamo, 1452-1498'
+- !lcsh 'William I, Prince of Orange, 1533-1584'
+- !lcc 'CT'
+- !lcsh 'Milton, John, 1608-1674'
+- !lcsh 'Cromwell, Oliver, 1599-1658'
+- !lcsh 'Dante Alighieri, 1265-1321'
+- !lcsh 'Wesley, John, 1703-1791'
+- !lcsh 'Ruskin, John, 1819-1900'
+- GITenberg
+tableOfContents: Dante, and the dawn after the dark ages -- Savonarola, and the renaissance
+  of conscience -- William the Silent, and brave little Holland -- Oliver Cromwell,
+  and the rise of democracy in England -- John Milton, the scholar in politics --
+  John Wesley, and the moral awakening of the common people -- Garibaldi, the idol
+  of the new Italy -- John Ruskin, and the diffusion of the beautiful.
+title: Great Men as Prophets of a New Era
+url: http://www.gutenberg.org/ebooks/60038
