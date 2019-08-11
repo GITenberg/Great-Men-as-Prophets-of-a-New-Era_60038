@@ -1,5 +1,8 @@
 _repo: Great-Men-as-Prophets-of-a-New-Era_60038
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60038-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hillis, Newell Dwight
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7266
     wikipedia: https://en.wikipedia.org/wiki/Newell_Dwight_Hillis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60038#Great-Men-as-Prophets-of-a-New-Era
 gutenberg_issued: '2019-08-01'
 gutenberg_type: Text
 identifiers:
